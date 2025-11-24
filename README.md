@@ -15,7 +15,7 @@ Requirements
     albumentations == 1.3.0
 Pretrained model
 ======
-    The training code will be made publicly available after the paper is accepted.
+    Google drive: [https://drive.google.com/file/d/13hf4l7mPnbdHolEaAtllNRx8Vy4hL_Tj/view?usp=sharing](https://drive.google.com/file/d/13hf4l7mPnbdHolEaAtllNRx8Vy4hL_Tj/view?usp=sharing)
 Test
 ======
     test.py
