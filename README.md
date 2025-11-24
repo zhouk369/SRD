@@ -4,7 +4,7 @@ TODO
 ======
 - [x] ~~Requirements~~
 - [x] ~~Test Code~~
-- [x] Pretrained model
+- [x] ~~Pretrained model~~
 - [x] Train Code
       
 Requirements
@@ -15,7 +15,8 @@ Requirements
     albumentations == 1.3.0
 Pretrained model
 ======
-    Google drive: [Google Drive链接](<https://drive.google.com/file/d/13hf4l7mPnbdHolEaAtllNRx8Vy4hL_Tj/view?usp=sharing>)
+- [x] Google drive: (<https://drive.google.com/drive/folders/1qo3YKr2H7x2d_H1XvB3lfE-WUowQKk0Y?usp=drive_link>)
+
 Test
 ======
     test.py
